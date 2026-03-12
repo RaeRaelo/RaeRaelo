@@ -6,7 +6,7 @@
 
 **🌸 Hyperpop, VR, Tech and Music are my Fixations :3 🌸**
 
-*Studying at 1337 | Based in Morocco | Building out the backend* 💻 
+*Studying at 1337 | Based in Morocco | Exploring the backend :3* 💻 
 
 </div>
 
