@@ -29,7 +29,7 @@
 
 * **⚙️ Compiling:** Mastering Python OOP at 1337.
 * **💿 Next up on the setlist:** C# with some Unity <3.
-* **🎮 AFK (Gaming):** Hanging out in VRChat & surviving in Kingdom Come: Deliverance.
+* **🎮 AFK (Gaming):** Hanging out in VRChat & Knighting in KCD.
 * **🔊 Bumping:** Jane Remover, Ninajirachi, PinkPantheress, and Charli XCX.
 
 ---
